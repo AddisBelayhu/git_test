@@ -9,3 +9,15 @@ body{
 h1{
     font-family: 'Times New Roman', Times, serif
 }
+
+table{
+    background-color: gray;
+    border: dashed;
+}
+
+#circleOne{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    background-color: pink;
+}
