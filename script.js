@@ -10,5 +10,6 @@ function buttonEffect(){
 function mouthOver(){
     const mouseEffect = document.getElementById("circleOne");
     mouseEffect.innerHTML= "Pink";
+    
 }
 

@@ -1,9 +1,14 @@
 body{
-    margin: 0;
+    
     background-color: bisque;
     text-align: center;
     text-decoration: none;
     
+}
+
+divOne{
+    border: solid;
+    background-color: lightpink
 }
 
 h1{
@@ -11,13 +16,20 @@ h1{
 }
 
 table{
+    paddig-top:67px;
     background-color: gray;
     border: dashed;
 }
+
+
 
 #circleOne{
     border-radius: 50%;
     height: 50px;
     width: 50px;
     background-color: pink;
+}
+
+.divTwo{
+    padding-top: 5ps;
 }
