@@ -10,6 +10,7 @@ body{
     align-items: center;
     min-height: 100vh;
     object-fit: cover;
+    background-color: burlywood;
 }
 
 .squre{
@@ -86,6 +87,7 @@ body{
    }
 
    form{
+    width: 400px;
     background: rgba(255, 255, 255, 0.1);
     position: relative;
     display: flex;
@@ -121,13 +123,13 @@ body{
 
    .input-field{
     height: 40px;
-    width: 150px;
+    width: 300px;
     border: none;
     padding: 5px;
     background: rgba(255, 255, 255, 0.03);
     font-size: 1rem;
     border-radius: 10px;
-    color: #fff;
+    color: black;
    }
 
    .btn{
